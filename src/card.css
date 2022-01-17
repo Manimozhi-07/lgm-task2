@@ -1,0 +1,20 @@
+#card {
+    background-color:lightblue;
+    color: #000;
+    font-size: 20px;
+    font-style: oblique;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 30px;
+    border-style: dotted;
+  }
+  .info{
+    text-align: center;
+   
+  }
+  
+  #image {
+    border-radius: 60%;
+    border-width: 20px;
+    margin-left: 250px;
+  }
